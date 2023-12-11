@@ -19,10 +19,13 @@ A Point of Sale Management System is a comprehensive solution designed to stream
 - PHP 7.x
 - MySQL
 - Web server (e.g., Apache, Nginx)
-
+- 
+##Project
+![Screenshot (278)](https://github.com/samareshm61/POS_managementSystem/assets/100060477/39a1a3c6-03d9-413b-85dc-c073e97cdd03)
 ## Installation
 
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/your-username/your-repository.git
+   
