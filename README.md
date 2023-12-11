@@ -22,6 +22,11 @@ A Point of Sale Management System is a comprehensive solution designed to stream
 - 
 ##Project
 ![Screenshot (278)](https://github.com/samareshm61/POS_managementSystem/assets/100060477/39a1a3c6-03d9-413b-85dc-c073e97cdd03)
+
+![Screenshot (279)](https://github.com/samareshm61/POS_managementSystem/assets/100060477/6b895c35-6293-4778-82ef-51cc6beabb3e)
+![Screenshot (281)](https://github.com/samareshm61/POS_managementSystem/assets/100060477/dc03f8f4-652d-4d35-bb72-8de45682ca8b)
+![Screenshot (280)](https://github.com/samareshm61/POS_managementSystem/assets/100060477/e5e8579c-bc10-41db-8ed4-2ce9be73ec20)
+
 ## Installation
 
 1. Clone the repository:
